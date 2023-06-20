@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using DotnetFundamentals.Models;
+
+Person p = new Person();
+
+p.Name = "John Doe";
+p.Age = 22;
+
+Console.WriteLine(p.Name);
+Console.WriteLine(p.Age);
