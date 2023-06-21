@@ -33,3 +33,18 @@ Console.WriteLine(todayDate);
 
 // Simplified date format without seconds
 Console.WriteLine(todayDate.ToString("dd/MM/yyyy HH:mm"));
+
+
+// Math basic operations
+Calculator calc = new Calculator();
+
+calc.Add(3, 2);
+calc.Subtract(10, 5);
+calc.Multiply(2, 2);
+calc.Divide(10, 2);
+calc.Module(10, 3);
+calc.Power(10, 3);
+calc.Sine(30);
+calc.Cosine(30);
+calc.Tangent(30);
+calc.Squared(16);
