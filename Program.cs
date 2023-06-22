@@ -48,3 +48,46 @@ calc.Sine(30);
 calc.Cosine(30);
 calc.Tangent(30);
 calc.Squared(16);
+
+// Interactive Menu
+
+string option;
+bool showMenu = true;
+
+while (showMenu)
+{
+  Console.WriteLine("Select your option");
+  Console.WriteLine("1 - Register new User");
+  Console.WriteLine("2 - Search for existing User");
+  Console.WriteLine("3 - Delete existing User");
+  Console.WriteLine("4 - Exit");
+
+  option = Console.ReadLine();
+
+  switch (option)
+  {
+    case "1":
+      Console.WriteLine("Option Selected: Register new User");
+      break;
+
+    case "2":
+      Console.WriteLine("Option Selected: Search for existing User");
+      break;
+
+    case "3":
+      Console.WriteLine("Option Selected: Delete existing User");
+      break;
+
+    case "4":
+      Console.WriteLine("Option Selected: Exit");
+      showMenu = false;
+      // Environment.Exit(0); // this line exits application and anything below it, will not be excuted.
+      break;
+
+    default:
+      Console.WriteLine("Invalid option!");
+      break;
+  }
+}
+
+Console.WriteLine("Exiting Menu");
