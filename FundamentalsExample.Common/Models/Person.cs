@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DotnetFundamentals.Models
+namespace DotnetFundamentals.Common.Models
 {
   public class Person
   {

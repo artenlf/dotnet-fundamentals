@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ProjetosDev\\DotnetFundamentals\\FundamentalsExample.Common\\FundamentalsExample.Common.csproj": {}
+  },
+  "projects": {
+    "C:\\ProjetosDev\\DotnetFundamentals\\FundamentalsExample.Common\\FundamentalsExample.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ProjetosDev\\DotnetFundamentals\\FundamentalsExample.Common\\FundamentalsExample.Common.csproj",
+        "projectName": "FundamentalsExample.Common",
+        "projectPath": "C:\\ProjetosDev\\DotnetFundamentals\\FundamentalsExample.Common\\FundamentalsExample.Common.csproj",
+        "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjetosDev\\DotnetFundamentals\\FundamentalsExample.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

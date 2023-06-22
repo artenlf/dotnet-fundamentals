@@ -1,0 +1,12 @@
+C:\ProjetosDev\DotnetFundamentals\FundamentalsExample.Common\bin\Debug\net7.0\FundamentalsExample.Common.deps.json
+C:\ProjetosDev\DotnetFundamentals\FundamentalsExample.Common\bin\Debug\net7.0\FundamentalsExample.Common.dll
+C:\ProjetosDev\DotnetFundamentals\FundamentalsExample.Common\bin\Debug\net7.0\FundamentalsExample.Common.pdb
+C:\ProjetosDev\DotnetFundamentals\FundamentalsExample.Common\obj\Debug\net7.0\FundamentalsExample.Common.csproj.AssemblyReference.cache
+C:\ProjetosDev\DotnetFundamentals\FundamentalsExample.Common\obj\Debug\net7.0\FundamentalsExample.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosDev\DotnetFundamentals\FundamentalsExample.Common\obj\Debug\net7.0\FundamentalsExample.Common.AssemblyInfoInputs.cache
+C:\ProjetosDev\DotnetFundamentals\FundamentalsExample.Common\obj\Debug\net7.0\FundamentalsExample.Common.AssemblyInfo.cs
+C:\ProjetosDev\DotnetFundamentals\FundamentalsExample.Common\obj\Debug\net7.0\FundamentalsExample.Common.csproj.CoreCompileInputs.cache
+C:\ProjetosDev\DotnetFundamentals\FundamentalsExample.Common\obj\Debug\net7.0\FundamentalsExample.Common.dll
+C:\ProjetosDev\DotnetFundamentals\FundamentalsExample.Common\obj\Debug\net7.0\refint\FundamentalsExample.Common.dll
+C:\ProjetosDev\DotnetFundamentals\FundamentalsExample.Common\obj\Debug\net7.0\FundamentalsExample.Common.pdb
+C:\ProjetosDev\DotnetFundamentals\FundamentalsExample.Common\obj\Debug\net7.0\ref\FundamentalsExample.Common.dll
